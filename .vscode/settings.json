@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "temp/commons-codec-1.15.jar"
+        ],
+        "exclude": [
+            "lib/commons-codec-1.15.jar"
+        ]
+    }
+}
